@@ -2,11 +2,15 @@ import java.util.Scanner;
 
 public class Massive {
     void mass() {
-        Scanner scanner = new Scanner(System.in);
-        int i, j,max;
+        int i =0, j, max;
         String zn=null;
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Введите длину массива");
         i = scanner.nextInt(); //задаем длину массива
+        if (i <=0 ) { //Проверка на то, что длина массива больше 0
+            System.out.println("Длина массива должна быть >0");
+            mass();
+        }
         String[] arr = new String[i];
         for (j = 0; j < i; j++) { //в цикле вводим элементы массива
             System.out.println("Введите " + (j + 1) + " элемент массива. Вводить необходимо без пробела, по одному слову.");
@@ -21,6 +25,6 @@ public class Massive {
             max=arr[j].length();
             zn=arr[j];
             }
-        System.out.println("Самое длинное слово " + zn + " .Его длина составляет " +  max + " символов!");
+            if (i>0) System.out.println("Самое длинное слово " + zn + " .Его длина составляет " +  max + " символов!");
     }
 }

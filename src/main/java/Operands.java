@@ -22,11 +22,12 @@ public class Operands {
             i = scanner.nextDouble();
             System.out.println("Введите второе число. Дробная часть вводится через запятую.");
             j = scanner.nextDouble();
-            if (j==0) {
+            if ( j>0 )
+                System.out.printf("Результат деления:" + ("%.4f"), (i / j));
+            else {
                 System.out.println("На ноль делить нельзя!!!!");
                 division();
             }
-            System.out.printf("Результат деления:" + ("%.4f"), (i / j));
         }
         void multiplication() { //метод для умножения двух чисел
             System.out.println("Введите первое число. Дробная часть вводится через запятую.");

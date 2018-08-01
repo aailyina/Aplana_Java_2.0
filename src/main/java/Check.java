@@ -1,6 +1,3 @@
-import com.sun.org.apache.bcel.internal.generic.SWITCH;
-
-import java.text.BreakIterator;
 import java.util.Scanner;
 
 public class Check {
@@ -8,6 +5,8 @@ public class Check {
     Scanner scanner = new Scanner(System.in);
     Operands calc = new Operands();
     Massive mas = new Massive();
+    ChangeMaxMin change = new ChangeMaxMin();
+    Gift gi = new Gift();
 
     void CheckOperation() {  //Метод выбора операции для калькулятора
         System.out.println("Выберите операцию: 1-сложение, 2-вычитаение, 3-деление, 4-умножение");
@@ -37,7 +36,7 @@ public class Check {
     }
 
     void CheckProgram() { // метод для выбора программы. Калькулятор или поиск максимального слово в массиве.
-        System.out.println("Выберите какая программа будет выполняться. 1-калькулято, 2-массив слов.");
+        System.out.println("Выберите какая программа будет выполняться. 1-калькулятор, 2-максимальная длина слова в массиве, 3 - поменять местами max и min элементы., 4 - собрать подарок");
         try {
             i = scanner.nextInt();
             switch (i) {
@@ -46,6 +45,12 @@ public class Check {
                     break;
                 case 2:
                     mas.mass();
+                    break;
+                case 3:
+                    change.change();
+                    break;
+                case 4:
+                    gi.choose();
                     break;
                 default:
                     System.out.println("Нет такого значения.");
