@@ -1,3 +1,5 @@
+package CalculatorConsole;
+
 import java.util.Scanner; //Класс Scanner необходим для получения консольного ввода данных
 
 public class Operands {

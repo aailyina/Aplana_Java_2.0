@@ -1,3 +1,5 @@
+package CalculatorConsole;
+
 import java.util.Scanner;
 
 public class Massive {

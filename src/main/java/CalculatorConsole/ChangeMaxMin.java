@@ -1,3 +1,5 @@
+package CalculatorConsole;
+
 public class ChangeMaxMin {
     void change() {
         int[] array;

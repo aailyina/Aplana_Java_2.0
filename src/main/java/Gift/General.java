@@ -1,9 +1,36 @@
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import Gift.Elements.Bear;
+import Gift.Elements.Calculate;
+import Gift.Elements.Candy;
+import Gift.Elements.Lollipop;
 
-public class Gift {
-    void choose() {
+public class General {
+    public static void main(String[] args) {
+        int fullVes=0;
+        Bear bear = new Bear(1, "Bear", 100, 100.22);
+        Candy candy = new Candy(2, "Lastochka", 500, 800);
+        Lollipop lollipop = new Lollipop(3, "Chupa-Chups", 50, 15);
+        Calculate [] box = {bear, candy, lollipop};
+        System.out.println("Сформирован подарок: ");
+        for (int i=0; i < box.length; i++) {
+            System.out.println(box[i]);
+        }
+        System.out.println();
+        System.out.print("Общий вес подарка в граммах = ");
+        System.out.println(bear.getVes() + candy.getVes() + lollipop.getVes());
+        System.out.print("Общая стоимость подарка в рублях = ");
+        System.out.println(bear.getPrice() + candy.getPrice() + lollipop.getPrice());
+    }
+}
+
+
+
+
+
+
+
+
+
+    /*void choose() {
         int i, j;
         int[] array2;
         array2 = new int[3];
@@ -33,13 +60,13 @@ public class Gift {
         ints = lst.toArray(ints);
         /*for (int x : ints) {
             System.out.print(x);
-        }*/
+        }
         //System.out.println(); //Выбор трех элементов из последовательности
         for (i = 0; i < 3; i++)
             for (j = 0; j < ints.length; j++) {
                 if (ints[j] < 7 && ints[j] != 0) {
                     array2[i] = ints[j];
-         //           System.out.print(array2[i]);
+                    //           System.out.print(array2[i]);
                     ints[j] = 10;
                     break;
                 }
@@ -60,9 +87,9 @@ public class Gift {
                 ves += Integer.parseInt(array[i][2]);
                 price += Integer.parseInt(array[i][3]);
             }
-            System.out.println("Общий вес подарка = " + ves +" г.");
-            System.out.println("Общая стоимость подарка = " + price + " руб.");
+        System.out.println("Общий вес подарка = " + ves +" г.");
+        System.out.println("Общая стоимость подарка = " + price + " руб.");
 
 
     }
-}
+    */
