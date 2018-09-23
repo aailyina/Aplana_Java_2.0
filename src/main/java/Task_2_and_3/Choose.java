@@ -1,16 +1,15 @@
-package CalculatorConsole;
+package Task_2_and_3;
 
 import java.util.Scanner;
 
-public class Check {
+public class Choose {
     int i;
     Scanner scanner = new Scanner(System.in);
-    Operands calc = new Operands();
+    Calculate calc = new Calculate();
     Massive mas = new Massive();
-    ChangeMaxMin change = new ChangeMaxMin();
 
-    void CheckOperation() {  //Метод выбора операции для калькулятора
-        System.out.println("Выберите операцию: 1-сложение, 2-вычитаение, 3-деление, 4-умножение");
+    void chooseOperation() {
+    System.out.println("Выберите операцию: 1-сложение, 2-вычитаение, 3-деление, 4-умножение");
         try {
             i = scanner.nextInt();
             switch (i) {
@@ -28,38 +27,31 @@ public class Check {
                     break;
                 default:
                     System.out.println("В списке операций нет такого значения.");
-                    CheckOperation();
+                    chooseOperation();
             }
-        }
-                catch (java.util.InputMismatchException ex) {
+        } catch (java.util.InputMismatchException ex) {
             System.out.println("Только цифры!!! Ну что, запускай заново)");
         }
     }
 
-    void CheckProgram() { // метод для выбора программы. Калькулятор или поиск максимального слово в массиве.
-        System.out.println("Выберите какая программа будет выполняться. 1-калькулятор, 2-максимальная длина слова в массиве, 3 - поменять местами max и min элементы.");
+    void ChooseProgram() { // метод для выбора программы. Калькулятор или поиск максимального слово в массиве.
+        System.out.println("Выберите какая программа будет выполняться. 1-калькулятор, 2-максимальная длина слова в массиве.");
         try {
             i = scanner.nextInt();
             switch (i) {
                 case 1:
-                    CheckOperation();
+                    chooseOperation();
                     break;
                 case 2:
                     mas.mass();
                     break;
-                case 3:
-                    change.change();
-                    break;
                 default:
                     System.out.println("Нет такого значения.");
-                    CheckProgram();
+                    ChooseProgram();
             }
         }
         catch (java.util.InputMismatchException ex) {
             System.out.println("Только цифры!!! Ну что, запускай заново)");
         }
     }
-    }
-
-
-
+}

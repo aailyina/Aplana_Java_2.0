@@ -1,12 +1,11 @@
-package Gift.Elements;
+package Task_4_2.Elements;
 
-public class Bear extends Calculate {
+public abstract class Calculate {
     private String name;
     private int ves;
     private double price;
 
-    public Bear(int id, String name, int ves, double price) {
-        super(id);
+    public Calculate(String name, int ves, double price) {
         this.name = name;
         this.ves = ves;
         this.price = price;
@@ -38,6 +37,6 @@ public class Bear extends Calculate {
 
     @Override
     public String toString() {
-        return "Bear = " + super.toString() + ", Name = " + name + ", Ves = " + ves + ", Price = " + price;
+        return "Name " + name + ", " + "Ves " + ves + ", " + "Price " + price;
     }
 }
