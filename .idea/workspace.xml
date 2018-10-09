@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ead7ec-b55c-45ce-862c-5147ba3b378d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/ChooseOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/Operands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/Operations/Multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_5/Operations/Subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_6/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_6/Words_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aplana_Java_2.0" beforeDir="false" afterPath="$PROJECT_DIR$/Aplana_Java_2.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_5/Arguments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_5/Calculate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_5/OOP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_5/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task_5/Show.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorOOP/Arguments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorOOP/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorOOP/OOP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorOOP/Show.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task_6/Words_2.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,11 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Word.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#516#524#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="220">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,15 +49,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Choose.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/Choose.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="28" column="78" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -83,18 +70,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="99" selection-start-line="3" selection-start-column="99" selection-end-line="3" selection-end-column="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Words_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Words_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -207,13 +182,13 @@
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operatons/Addition.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/OOP.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/ChooseOperation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task_5/Base.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operands.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Subtraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Multiplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_6/Words_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_5/Base.java" />
       </list>
     </option>
   </component>
@@ -256,23 +231,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="First_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Task_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="First_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Task_5" type="462c0819:PsiDirectoryNode" />
-              <item name="Operations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="First_project" type="b2602c69:ProjectViewProjectNode" />
@@ -452,7 +410,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -624,17 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#516#524#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Args.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -696,33 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Subtraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Multiplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Show.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -760,6 +679,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -767,12 +709,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Base.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Multiplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Subtraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#516#524#0" expanded="true" />
           </folding>
         </state>
       </provider>
