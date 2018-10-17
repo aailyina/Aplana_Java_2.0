@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82ead7ec-b55c-45ce-862c-5147ba3b378d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Substraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Task_6/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/unitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Aplana_Java_2.0" beforeDir="false" afterPath="$PROJECT_DIR$/Aplana_Java_2.0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Task_6/Words_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task_6/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task_6/Word.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,104 +24,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/First_project$Wor_2.ic" NAME="Wor_2 Coverage Results" MODIFIED="1539702938995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Task_6.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Word.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Word.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
+            <state relative-caret-position="169">
+              <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#516#524#0" expanded="true" />
+                <element signature="e#774#782#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Base.java">
+      <file leaf-file-name="slova.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/slova.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state>
+              <caret column="27" selection-start-column="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChooseOperation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/ChooseOperation.java">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="314">
+              <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Operands.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operands.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Show.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Show.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="99" selection-start-line="3" selection-start-column="99" selection-end-line="3" selection-end-column="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Addition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Division.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Multiplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Multiplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Subtraction.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Subtraction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -138,20 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Gift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Massive.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Operands.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CalculatorConsole/Operands.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CalculatorConsole/Check.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Gift.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Spisok.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Elements.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Elements/Lollipop.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Elements/Candy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/Elements/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Gift/General.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CalculatorOOP/Arguments.java" />
         <option value="$PROJECT_DIR$/src/main/java/CalculatorOOP/Base.java" />
         <option value="$PROJECT_DIR$/src/main/java/CalculatorOOP/Operands.java" />
         <option value="$PROJECT_DIR$/src/main/java/CalculatorOOP/OOP.java" />
@@ -174,8 +109,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Arguments.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Args.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task_6/Word.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task_5/Show.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operatons/Division.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operatons/Subtraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operatons/Multiplication.java" />
@@ -183,12 +116,28 @@
         <option value="$PROJECT_DIR$/src/main/java/Task_5/OOP.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/ChooseOperation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operands.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Subtraction.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Multiplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_6/Words_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task_5/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_6/Word_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_5/Show.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task__8/CalcForUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalcForUnitTest/CalcForUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Addition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Division.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Multiplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CalcForUnitTest/Substraction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/unitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_6/Sort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_6/Information.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_6/Wor_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_6/Word.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task_6/test.java" />
+        <option value="$PROJECT_DIR$/src/main/slova.txt" />
       </list>
     </option>
   </component>
@@ -240,13 +189,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Task_6" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="First_project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First_project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -281,36 +223,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Base">
-    <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_5.Base" />
+  <component name="RunManager" selected="Application.Word">
+    <configuration name="Information" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_6.Information" />
       <module name="First_project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="General (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_4_2.General" />
-      <module name="First_project" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task_4_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="OOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_5.OOP" />
-      <module name="First_project" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task_5.*" />
+          <option name="PATTERN" value="Task_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,8 +246,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Words_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_6.Words_2" />
+    <configuration name="Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_6.Word" />
+      <module name="First_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_6.Word" />
       <module name="First_project" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -345,6 +276,23 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="unitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First_project" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="unitTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -379,19 +327,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.General (1)" />
-      <item itemvalue="Application.OOP" />
       <item itemvalue="Application.Word" />
-      <item itemvalue="Application.Base" />
-      <item itemvalue="Application.Words_2" />
+      <item itemvalue="JUnit.unitTest" />
+      <item itemvalue="Application.Word" />
+      <item itemvalue="Application.Information" />
+      <item itemvalue="Application.Word" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Base" />
-        <item itemvalue="Application.Words_2" />
         <item itemvalue="Application.Word" />
-        <item itemvalue="Application.OOP" />
-        <item itemvalue="Application.General (1)" />
+        <item itemvalue="Application.Word" />
+        <item itemvalue="Application.Word" />
+        <item itemvalue="Application.Information" />
+        <item itemvalue="JUnit.unitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -408,8 +356,23 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="unitTest - 2018.10.16 at 13h 51m 42s.xml">
+      <configuration name="unitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="unitTest - 2018.10.16 at 14h 03m 50s.xml">
+      <configuration name="unitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="unitTest - 2018.10.16 at 14h 14m 24s.xml">
+      <configuration name="unitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="unitTest - 2018.10.16 at 14h 14m 47s.xml">
+      <configuration name="unitTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -420,11 +383,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50065106" side_tool="true" weight="0.34896553" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49934897" visible="true" weight="0.34896553" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49934897" visible="true" weight="0.34896553" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3294271" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32965517" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22526042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -448,41 +412,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Operands.class" />
-    <entry file="file://$PROJECT_DIR$/src/main/Task 3/java/Massive.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/Task 3/java/Operands.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/Task 3/java/Check.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/Task 3/java/Base.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/util/function/ToIntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CalculatorConsole/Gift.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Gift/Show.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/Spisok.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Gift/Elements.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Gift/Calculate.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Gift/Elements/Lollipop.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Gift/Elements/Candy.java" />
@@ -621,34 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/CalculateConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/Choose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="28" column="78" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Show.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="99" selection-start-line="3" selection-start-column="99" selection-end-line="3" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Words_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -656,56 +557,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/ChooseOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#282#283#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -723,14 +574,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#516#524#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Show.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Operations/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/ChooseOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/unitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalcForUnitTest/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalcForUnitTest/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="36" column="55" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/Choose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="11" column="91" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/CalculateConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalcForUnitTest/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalcForUnitTest/Multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CalcForUnitTest/Substraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_5/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_2_and_3/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="87" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="56" column="13" lean-forward="true" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#774#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task_6/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="51" column="48" selection-start-line="51" selection-start-column="48" selection-end-line="51" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/slova.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>

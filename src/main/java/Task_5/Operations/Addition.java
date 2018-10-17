@@ -11,11 +11,8 @@ public class Addition implements Show {
      * @return - возвращаемое значение
      */
 
-    public Double solve(Double a, Double b) {
-        return a+b;
-    }
+    public Double solve(Double a, Double b) {return a+b; }
 
-    public String getName() {
-        return "+";
-    }
+    public String getName() { return "+"; }
 }
+
